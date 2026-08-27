@@ -1,0 +1,2 @@
+# Minor_Project_6
+QuickCart_Stockout_Risk_Classification
